@@ -4,12 +4,5 @@
 
 > ChatGPT-prompt：针对（web.okjike.com）这个网站写一个谷歌插件，当用网页端去访问一个移动端的即刻动态页面时，让它自动重定向到网页端，就例如把（m.okjike.com/originalPosts/XXXXX）这个页面自动改成（web.okjike.com/originalPost/XXXXX）
 
-##### Before：
-
-![before](https://github.com/laotutou007/JikeMobileToWeb/blob/main/after.gif)
-
-##### After:
-
-![after](https://github.com/laotutou007/JikeMobileToWeb/blob/main/before.gif)
 
 
